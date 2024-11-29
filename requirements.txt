@@ -9,3 +9,5 @@ pytest==7.4.0
 httpx==0.25.1
 pandas==2.1.1  # Replace with the latest stable version if newer
 numpy==1.26.0  # Replace with the latest stable version if newer
+loguru==0.6.0
+
