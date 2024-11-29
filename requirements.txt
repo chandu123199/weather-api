@@ -1,0 +1,9 @@
+fastapi==0.100.0  # Specify the latest stable version
+uvicorn[standard]==0.23.0  # Includes features like WebSocket and debugging
+sqlalchemy==2.0.21
+databases==0.6.2
+pydantic==2.1.1
+python-jose==3.3.0
+passlib[bcrypt]==1.7.4
+pytest==7.4.0
+httpx==0.25.1
